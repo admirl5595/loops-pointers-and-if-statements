@@ -1,0 +1,3 @@
+C:/Users/admir/CLionProjects/pointers/cmake-build-debug/CMakeFiles/pointers.dir
+C:/Users/admir/CLionProjects/pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admir/CLionProjects/pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
